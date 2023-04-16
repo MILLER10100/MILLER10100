@@ -1,6 +1,7 @@
 
 
 ### Olá! Eu sou o Rodrigo Miller 👋
+_______________________________________________________________________________________________________________________________________________________________________
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-miller-170340233)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmiller021/account)
