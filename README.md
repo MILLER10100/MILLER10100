@@ -8,9 +8,9 @@ ________________________________________________________________________________
 
 <div align="center">
   <a href="https://github.com/MILLER10100/MILLER10100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=transparent&include_all_commits=truecount_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=truecount_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&=dark"/>
 </div>
 
 _______________________________________________________________________________________________________________________________________________________________________
