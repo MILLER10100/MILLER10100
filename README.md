@@ -10,8 +10,10 @@ ________________________________________________________________________________
   <a href="https://github.com/MILLER10100/MILLER10100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=truecount_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&=dark"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
