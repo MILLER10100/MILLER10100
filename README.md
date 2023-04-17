@@ -34,4 +34,10 @@
   
 
 
+<h3 align="center">Estatísticas de Contribuição no GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=dark" alt="Estatísticas de Contribuição no GitHub" />
+</p>
+
   
