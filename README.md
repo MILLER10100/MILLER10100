@@ -1,20 +1,36 @@
+<!-- Cabeçalho -->
+<h1 align="center">Olá! Eu sou o Rodrigo Miller 👋</h1>
 
+<!-- Links sociais -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-miller-170340233">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/rmiller021/account">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
-### Olá! Eu sou o Rodrigo Miller 👋
-_______________________________________________________________________________________________________________________________________________________________________
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-miller-170340233)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmiller021/account)
-
+<!-- Estatísticas do GitHub -->
 <div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/MILLER10100/MILLER10100">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=truecount_private=true"/>
-    </a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<!-- Tecnologias -->
+<h3 align="center">Tecnologias que utilizo no meu dia:</h3>
+
+<p align="center">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+  <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img align="center" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  
 _______________________________________________________________________________________________________________________________________________________________________
 
 ### Tecnologias que utilizo no meu dia 
