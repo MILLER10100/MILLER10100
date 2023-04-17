@@ -7,13 +7,13 @@ ________________________________________________________________________________
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmiller021/account)
 
 <div align="center">
-  <a href="https://github.com/MILLER10100/MILLER10100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=truecount_private=true"/>
-    
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
+  <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/MILLER10100/MILLER10100">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&include_all_commits=truecount_private=true"/>
+    </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 </div>
-
 
 _______________________________________________________________________________________________________________________________________________________________________
 
