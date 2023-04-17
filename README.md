@@ -37,13 +37,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&count_private=true&hide=stars,issues&theme=dark&hide_border=true" />
 
-<!-- GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="450" align="center"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MILLER10100&theme=dark&hide_border=true" alt="GitHub streak stats" width="450" align="center"/>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/MILLER10100/MILLER10100/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</div>
 
   
