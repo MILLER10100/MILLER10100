@@ -6,7 +6,11 @@ ________________________________________________________________________________
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-miller-170340233)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmiller021/account)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=merko)
+<div align="center">
+  <a href="https://github.com/MILLER10100/MILLER10100">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILLER10100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
