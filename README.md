@@ -34,12 +34,5 @@
   
 
 
-<!-- Gráfico de contribuições -->
-<h3 align="center">Minhas contribuições no GitHub</h3>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MILLER10100&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
-
 
   
