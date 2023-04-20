@@ -19,6 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MILLER10100&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MILLER10100&theme=gotham)
   
 <!-- Tecnologias -->
 <h3 align="center">Tecnologias que utilizo no meu dia:</h3>
