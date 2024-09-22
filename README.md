@@ -76,7 +76,7 @@ Eu me inspiro nessa frase para continuar explorando os limites da IA e da tecnol
 
 ### 👾 Tecnologias que fazem parte da minha rotina:
 
-- ### 🤖 Machine Learning
+ ### 🤖 Machine Learning
  
    [![My skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Julia](https://skillicons.dev/icons?i=julia)](https://julialang.org/) [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/) [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/) [![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 
